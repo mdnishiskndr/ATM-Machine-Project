@@ -4,3 +4,6 @@ This project is designed to developed an ATM Machine using C++ programming langu
 
 The user will create their bank account by supplying their id and password then use it to login into the system. If the login was successful the user will be able to withdraw money, deposit money and request their balance. If login was not successful (for example the id or password did not match) then the user will be
 taken back to the introduction menu.
+
+Bank Interface:
+![image](https://github.com/user-attachments/assets/a1c3802c-d5ca-40e4-8d99-06d45e890a80)

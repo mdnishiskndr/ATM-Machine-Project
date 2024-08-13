@@ -2,6 +2,11 @@
 
 This individual course project is developed to fulfill CSC404 requirement This project is designed to developed an ATM Machine using C++ programming language in Dev-C++ Software that can allow user to create a bank account and use it to withdraw money, deposit money and request their balance.
 
+## Table of Content
+- [Features](#Features)
+- [Installation and Setup](#Installation-and-Setup)
+- [File Structure](#File-Structure)
+- [Usage Flow](#Usage-Flow)
 
 ## Features
 - **Create Account:** Register a new account with a username, password, and initial balance.
@@ -39,7 +44,7 @@ This text file is used to store user credentials such as *user ID*, *password*, 
 ### `Existing BankAcc.txt`
 This text file is used as a temporary storage file during the operations of *requesting balance*, *depositing money*, and *withdrawing money*.
 
-## Usage Flow:
+## Usage Flow
 ### 1. Introductory Menu:
 - `l -> Login`
 - `c -> Create New Account`
